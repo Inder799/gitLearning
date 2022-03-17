@@ -1,2 +1,4 @@
 hello i am a txt file
 hello i am version 2 of abc file
+
+I am having fun learning git
